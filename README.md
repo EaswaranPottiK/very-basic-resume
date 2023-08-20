@@ -1,1 +1,1 @@
-# very-basic-resume
+# https://easwaranpottik.github.io/very-basic-resume/
